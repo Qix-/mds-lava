@@ -12,5 +12,5 @@
   "damageTaken": 5,
   "walkEffect": "melting",
   "drawLiquidLight": true,
-  "drownEffect": "burning"
+  "drownUpdateEffect": "burning"
 }
