@@ -1,0 +1,12 @@
+{
+  "name": "Lava",
+  "color": "C12D00",
+  "barColor": "C12D00",
+  "lightColor": "FF7D13",
+  "flammability": 0.05,
+  "temperature": 1.5,
+  "heatCapacity": -2,
+  "viscosity": 0.8,
+  "explosiveness": 0.01,
+  "effect": "melting"
+}

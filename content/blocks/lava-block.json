@@ -1,0 +1,16 @@
+{
+  "name": "lava-block",
+  "type": "floor",
+  "speedMultiplier": 0.1,
+  "variants": 0,
+  "liquidDrop": "lava",
+  "drownTime": 150,
+  "status": "melting",
+  "statusDuration": 300,
+  "isLiquid": true,
+  "cacheLayer": "water",
+  "damageTaken": 5,
+  "walkEffect": "melting",
+  "drawLiquidLight": true,
+  "drownEffect": "burning"
+}
